@@ -1,0 +1,15 @@
+//
+//  TestVC.pch
+//  TestVC
+//
+//  Created by apple on 15/5/13.
+//  Copyright (c) 2015年 wenkai. All rights reserved.
+//
+
+#ifndef TestVC_TestVC_pch
+#define TestVC_TestVC_pch
+
+#import "GlobalDefine.h"
+#import "NSString+Custom.h"
+
+#endif
